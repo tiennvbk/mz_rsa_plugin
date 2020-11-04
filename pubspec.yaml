@@ -1,8 +1,7 @@
 name: mz_rsa_plugin
 description: A new flutter plugin project.
 version: 0.0.1
-author: JeasonZeng <1691665955@qq.com>
-homepage: https://github.com/1691665955
+homepage: https://github.com/1691665955/mz_rsa_plugin
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
