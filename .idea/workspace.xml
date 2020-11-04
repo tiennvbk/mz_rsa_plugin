@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25fe69ea-9019-4686-870d-6dd17650179c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="GSLDU17B11010213" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Object" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jm6OUYwpJoFBPmhB0vk64YnYi7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ios/Classes" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ios/Frameworks" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ios/Classes" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25fe69ea-9019-4686-870d-6dd17650179c" name="Default Changelist" comment="" />
+      <created>1604396887611</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604396887611</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="302" key="GridCell.Tab.0.bottom" timestamp="1604482025001">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="240" key="GridCell.Tab.0.bottom/0.23.1440.810/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604474494323" />
+    <state width="1878" height="302" key="GridCell.Tab.0.bottom/0.23.1440.812/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604482025001" />
+    <state width="1878" height="302" key="GridCell.Tab.0.bottom/0.23.1440.813/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604481122227" />
+    <state width="1878" height="240" key="GridCell.Tab.0.bottom/0.23.1440.815/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604480683855" />
+    <state width="1878" height="358" key="GridCell.Tab.0.bottom/0.23.1440.817/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604459911601" />
+    <state width="1878" height="302" key="GridCell.Tab.0.center" timestamp="1604482025000">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="240" key="GridCell.Tab.0.center/0.23.1440.810/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604474494322" />
+    <state width="1878" height="302" key="GridCell.Tab.0.center/0.23.1440.812/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604482025000" />
+    <state width="1878" height="302" key="GridCell.Tab.0.center/0.23.1440.813/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604481122226" />
+    <state width="1878" height="240" key="GridCell.Tab.0.center/0.23.1440.815/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604480683854" />
+    <state width="1878" height="358" key="GridCell.Tab.0.center/0.23.1440.817/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604459911600" />
+    <state width="1878" height="302" key="GridCell.Tab.0.left" timestamp="1604482025000">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="240" key="GridCell.Tab.0.left/0.23.1440.810/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604474494322" />
+    <state width="1878" height="302" key="GridCell.Tab.0.left/0.23.1440.812/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604482025000" />
+    <state width="1878" height="302" key="GridCell.Tab.0.left/0.23.1440.813/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604481122225" />
+    <state width="1878" height="240" key="GridCell.Tab.0.left/0.23.1440.815/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604480683854" />
+    <state width="1878" height="358" key="GridCell.Tab.0.left/0.23.1440.817/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604459911600" />
+    <state width="1878" height="302" key="GridCell.Tab.0.right" timestamp="1604482025001">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1878" height="240" key="GridCell.Tab.0.right/0.23.1440.810/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604474494323" />
+    <state width="1878" height="302" key="GridCell.Tab.0.right/0.23.1440.812/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604482025001" />
+    <state width="1878" height="302" key="GridCell.Tab.0.right/0.23.1440.813/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604481122226" />
+    <state width="1878" height="240" key="GridCell.Tab.0.right/0.23.1440.815/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604480683855" />
+    <state width="1878" height="358" key="GridCell.Tab.0.right/0.23.1440.817/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604459911601" />
+    <state x="-1361" y="269" key="IDE.errors.dialog" timestamp="1604482011549">
+      <screen x="-1920" y="23" width="1920" height="1057" />
+    </state>
+    <state x="-1361" y="269" key="IDE.errors.dialog/0.23.1440.813/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1604482011549" />
+  </component>
+</project>
