@@ -1,11 +1,11 @@
 name: mz_rsa_plugin
-description: A RSA Encryption and Decryption flutter plugin project. Support the iOS and Android platform ,including `mz_rsa_plugin.dart`. It's userful to encrypting string or decrypting string.
-version: 0.0.2
+description: A RSA Encryption and Decryption flutter plugin project. Support the iOS and Android platform.
+version: 0.0.3
 homepage: https://github.com/1691665955/mz_rsa_plugin
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
-  flutter: ">=1.20.0 <2.0.0"
+  sdk: ">=2.1.0 <3.0.0"
+  flutter: ">=1.10.0"
 
 dependencies:
   flutter:
