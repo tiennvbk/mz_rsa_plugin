@@ -1,5 +1,8 @@
+## 0.0.4
+* add null safety
+
 ## 0.0.3
-* update the environment and description of  pubspec.yaml file
+* update the environment and description of pubspec.yaml file
 
 ## 0.0.2
 * fix some issue of the plugin example and format the dart file
